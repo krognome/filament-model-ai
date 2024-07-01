@@ -1,5 +1,5 @@
 {
-    "name": "postare/filament-model-ai",
+    "name": "krognome/filament-model-ai",
     "description": "Integrate artificial intelligence into FilamentPHP, leveraging your Eloquent Model data as knowledge.",
     "type": "library",
     "keywords": [
